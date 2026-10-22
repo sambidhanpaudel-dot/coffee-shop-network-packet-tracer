@@ -113,9 +113,6 @@ coffee-shop-network-packet-tracer/
 ├── README.md
 ├── network.md
 ├── TESTING.md
-├── SCREENSHOT-INDEX.md
-├── SKILLS.md
-├── GITHUB-UPLOAD.md
 ├── configs/
 │   ├── README.md
 │   ├── router-running-config.txt
