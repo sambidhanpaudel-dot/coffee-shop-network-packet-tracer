@@ -160,6 +160,6 @@ Router `Gi0/0` is named `TO_ISP` but is **administratively down with no IPv4 add
 
 ## 9. Testing and next iteration
 
-Detailed exact commands, screenshots and pass criteria are in [TESTING.md](TESTING.md). For screenshot names, see [SCREENSHOT-INDEX.md](SCREENSHOT-INDEX.md).
+Detailed exact commands, screenshots and pass criteria are in [TESTING.md](TESTING.md).
 
 Potential improvements: complete the ISP uplink/NAT/PAT as a separately tested task; add tests between guest laptop and actual office/POS *hosts* in addition to gateways; document AP wireless configuration; tighten office-to-POS access if required; and use unique strong management credentials for any non-lab deployment.
