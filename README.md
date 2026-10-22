@@ -83,7 +83,7 @@ All images linked below are **included in this repository**. A blocked guest pin
 
 ![Successful SSH session](screenshots/12-switch-ssh.png)
 
-See [SCREENSHOT-INDEX.md](SCREENSHOT-INDEX.md) for the **complete set of 15 screenshots** and [TESTING.md](TESTING.md) for every command and result.
+See [TESTING.md](TESTING.md) for every command and result.
 
 ## Open and reproduce
 
@@ -142,6 +142,6 @@ coffee-shop-network-packet-tracer/
 - Checked both **successful connections** and **expected security blocks**, rather than relying on device configuration alone.
 - Next: complete an ISP uplink/NAT lab; record guest-to-public-destination tests when configured; harden management access and improve office/POS segmentation if required.
 
-More details: [Network design](network.md) · [Verification procedures](TESTING.md) · [Skills & LinkedIn description](SKILLS.md).
+More details: [Network design](network.md) · [Verification procedures](TESTING.md) ·
 
 **Author:** Sambidhan Paudel — Bachelor of Information and Communication Technology student.
